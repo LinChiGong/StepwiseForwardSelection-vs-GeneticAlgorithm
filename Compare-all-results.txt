@@ -1,0 +1,32 @@
+Perform Stepwise Forward Selection and Genetic Algorithm Selection on 3 datasets. Performance is measured by calculating the Silhouette Coefficient after K-Means clustering.
+
+Iris
+-----------
+Stepwise Forward Selection:
+Selected features: [ 3 ]
+Performance: 0.72598
+
+Genetic Algorithm Selection:
+Selected features: [ 3 ]
+Performance: 0.72598
+
+Glass
+-----------
+Stepwise Forward Selection:
+Selected features: [ 7 ]
+Performance: 0.9081
+
+Genetic Algorithm Selection:
+Selected features: [ 7 ]
+Performance: 0.93046
+
+Spam
+-----------
+Stepwise Forward Selection:
+Selected features: [ 3 ]
+Performance: 0.9984
+
+Genetic Algorithm Selection:
+Selected features: [ 7 13 22 23 27 28 29 31 33 35 39 40 49 52 53 ]
+Performance: 0.89249
+

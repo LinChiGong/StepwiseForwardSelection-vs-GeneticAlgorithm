@@ -1,0 +1,7 @@
+- Author: Winston Lin
+
+- How to run this program: Run “src/P2/Main.java” to view the demonstration with a 		specified dataset. Run “src/P2/WriteToFile.java” to perform feature selection on 	all 3 datasets and output the results for each dataset
+
+- Java version: 10.0.1
+
+- IDE used: Eclipse Oxygen.3a Release (4.7.3a)
