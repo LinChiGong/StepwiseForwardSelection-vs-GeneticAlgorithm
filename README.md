@@ -38,7 +38,7 @@ Since both SFS and GAS are wrapper methods which generate subset and test perfor
 
 - Final feature set and best performance for each problem:
 
-  
+  ![alt text](outputs/summary.png)
 
   Final feature set is the best set of feature(s) selected by each algorithm. Best performance is the corresponding Silhouette Coefficient calculated with clusters formed by the final feature set. 
 
